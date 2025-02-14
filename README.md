@@ -9,7 +9,9 @@ tahapan proses :<br>
 3. Melakukan Commit minimal 3.
 4. Melakukan Pull Request.
 5. Menerima Pull Request dan memilih Squash Changes oleh pengelola repository.
-6. Melihat hasilnya pada network graph.
+6. Melihat hasilnya pada network graph.<br>
+
+Tangggal dibuat : 14/02/2025
 
 
 

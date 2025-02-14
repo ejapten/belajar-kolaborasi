@@ -11,7 +11,8 @@ tahapan proses :<br>
 5. Menerima Pull Request dan memilih Squash Changes oleh pengelola repository.
 6. Melihat hasilnya pada network graph.<br>
 
-Tangggal dibuat : 14/02/2025
+Tangggal dibuat : 14/02/2025<br>
+bisa 
 
 
 
